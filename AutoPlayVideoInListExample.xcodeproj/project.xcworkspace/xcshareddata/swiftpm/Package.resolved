@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PrettyConstraints",
+        "repositoryURL": "https://github.com/mobiraft/PrettyConstraints",
+        "state": {
+          "branch": null,
+          "revision": "84eed85a65c153be472d4ca3c13cb7d992e2a05e",
+          "version": "0.0.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
