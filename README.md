@@ -4,7 +4,7 @@
 This is an example of how to autoplay video in list in iOS.
 
 # Preview
-![](https://mobiraft.com/wp-content/uploads/2021/01/ezgif.com-video-to-gif-3.gif)
+![](https://mobiraft.com/wp-content/uploads/2021/01/ezgif.com-video-to-gif-5.gif)
 
 <h2>Blog</h2>
 <ul>
